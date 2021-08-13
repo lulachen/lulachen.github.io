@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 ## Peer-Reviewed Publications
-Nuole Chen, Kris-Stella Trump, Stacy Hall, and Quan Le. 2020. [“The Effect of Postcard Reminders on Vaccinations Among the Elderly: A Block Randomized Experiment.”](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/50007EBDEB8ED4D299EFE37C4F73FCB2/S2398063X20000342a.pdf/the-effect-of-postcard-reminders-on-vaccinations-among-the-elderly-a-block-randomized-experiment.pdf)_Behavioural Public Policy_, 1-26.
+Nuole Chen, Kris-Stella Trump, Stacy Hall, and Quan Le. 2020. [“The Effect of Postcard Reminders on Vaccinations Among the Elderly: A Block Randomized Experiment.”](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/50007EBDEB8ED4D299EFE37C4F73FCB2/S2398063X20000342a.pdf/the-effect-of-postcard-reminders-on-vaccinations-among-the-elderly-a-block-randomized-experiment.pdf) _Behavioural Public Policy_, 1-26.
 
-Cheng Jin, Chunji Yin, Xiaogang Jin, Yong Min, Yixiao Li, Nuole Chen, and Jiaxuan Huang. 2018. [“Group-based rewiring rules of binary opinion competition dynamics.”](https://www.nature.com/articles/s41598-018-32678-7)_Scientific Reports_, 8(14423).
+Cheng Jin, Chunji Yin, Xiaogang Jin, Yong Min, Yixiao Li, Nuole Chen, and Jiaxuan Huang. 2018. [“Group-based rewiring rules of binary opinion competition dynamics.”](https://www.nature.com/articles/s41598-018-32678-7) _Scientific Reports_, 8(14423).
 
 ## Other Publications
 

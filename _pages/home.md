@@ -4,8 +4,8 @@ title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /home/
+  - /home.html
 ---
 
 I am a Postdoctoral Associate at [MIT](https://web.mit.edu) in [MIT GOV/LAB](https://mitgovlab.org) and the [Department of Political Science](https://polisci.mit.edu). 

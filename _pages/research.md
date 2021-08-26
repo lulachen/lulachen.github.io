@@ -14,7 +14,7 @@ Cheng Jin, Chunji Yin, Xiaogang Jin, Yong Min, Yixiao Li, Nuole Chen, and Jiaxua
 
 Kris-Stella Trump and Nuole Chen. 2020. [“Can Reminder Postcards Help People Get Vaccinated?”](https://medium.com/3streams/can-reminder-postcards-help-people-get-vaccinated-dea31781ad85) 3Streams.
 
-Chris Grady and Nuole Chen. 2019. [“10 Things to Know about Pre-Analysis Plans.”](https://egap.org/methods-guides/10-things-pre-analysis-plans) EGAP Methods Guides.
+Chris Grady and Nuole Chen. 2019. [“10 Things to Know about Pre-Analysis Plans.”](https://egap.org/resource/10-things-to-know-about-pre-analysis-plans/) EGAP Methods Guides.
 
 Nuole Chen, Pompa Debroy, Stacy Hall, and Quan Le. 2019. [“Postcards-Increasing Vaccination Rates Among Elderly: U.S. Office Of Evaluation Sciences and LDH Immunization Program.”](http://ldh.la.gov/assets/oph/Center-PHCH/Center-CH/infectious-epi/LMR/2011-2020/2019/marapr19.pdf) Louisiana Morbidity Report.
 

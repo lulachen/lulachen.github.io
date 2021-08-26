@@ -20,7 +20,7 @@ Nuole Chen, Pompa Debroy, Stacy Hall, and Quan Le. 2019. [“Postcards-Increasin
 
 ## Works in Progress
 
-### Field experiments
+### Field experiments & Methods
 “Can an Information Campaign about Taxation and Service Delivery Increase Tax Compliance?” (with Chris Grady, Boniface Dulani, Mwayi Masumbu, Jake Bowers, and Matt Winters).
 
 “Discovering the next experiment via Sequential Intersection Union Testing and FDR adjustment: Randomization inference based statistical testing with thousands of subgroups.” (with Jake Bowers).

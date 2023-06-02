@@ -6,11 +6,17 @@ author_profile: true
 ---
 
 ## Peer-Reviewed Publications
+Rawlance Ndejjo, Nuole Chen, Steven N. Kabwama, Alice Namale, Solomon Tsebeni Wafula, Irene Wanyana, Susan Kizito, Suzanne N. Kiwanuka, William Sambisa, Lily L. Tsai, Rhoda K. Wanyenze. ["Uptake of COVID-19 vaccines and associated factors among adults in Uganda: a cross-sectional survey."](https://bmjopen.bmj.com/content/13/3/e067377.abstract) _BMJ Open_, 13:3.
+
+Heather Kappes, Mattie Toma, Rekha Balu, Russell Burnett, Nuole Chen, Rebecca A. Johnson, Jessica Leight, Saad B. Omer, Eleana Safran, Mary Steffel, Kris-Stella Trump, David Yokum, and Pompa Debroy. [“Lessons for Covid-19 Vaccination from Eight Federal
+Government Direct Communication Evaluation.”](https://eprints.lse.ac.uk/115072/1/OES_vaccine_portfolio_piece.pdf) _Behavioral Science & Policy, Forthcoming_.
+
 Nuole Chen, Kris-Stella Trump, Stacy Hall, and Quan Le. 2020. [“The Effect of Postcard Reminders on Vaccinations Among the Elderly: A Block Randomized Experiment.”](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/50007EBDEB8ED4D299EFE37C4F73FCB2/S2398063X20000342a.pdf/the-effect-of-postcard-reminders-on-vaccinations-among-the-elderly-a-block-randomized-experiment.pdf) _Behavioural Public Policy_, 1-26.
 
 Cheng Jin, Chunji Yin, Xiaogang Jin, Yong Min, Yixiao Li, Nuole Chen, and Jiaxuan Huang. 2018. [“Group-based rewiring rules of binary opinion competition dynamics.”](https://www.nature.com/articles/s41598-018-32678-7) _Scientific Reports_, 8(14423).
 
 ## Other Publications
+Nuole Chen, Lily Tsai, and Alisa Zomer. [“Academic/Practitioner Partnership Models: MIT Governance Lab.”](https://egap.org/resource/sd-partnership-models-mit-gov-lab/2022). EGAP Resources.
 
 Kris-Stella Trump and Nuole Chen. 2020. [“Can Reminder Postcards Help People Get Vaccinated?”](https://medium.com/3streams/can-reminder-postcards-help-people-get-vaccinated-dea31781ad85) 3Streams.
 
@@ -25,10 +31,10 @@ Nuole Chen, Pompa Debroy, Stacy Hall, and Quan Le. 2019. [“Postcards-Increasin
 
 “Discovering the next experiment via Sequential Intersection Union Testing and FDR adjustment: Randomization inference based statistical testing with thousands of subgroups.” (with Jake Bowers).
 
-### Decision-making in foreign policy
+### Decision-making in Foreign Policy
 “A Model of Group Decision-making in Foreign Policy.”
 
-“Group Decision-making in U.S. National Security Councils: Evidence from Conversations"
+“Decision-making in U.S. National Security Councils: Evidence from the Ford and Nixon Administrations"
 
 <!-- “Decision-Making and Climate Modeling with Geo-engineering: Using a Climate Action Game Experiment to Inform Climate Decisions” (with Hui Li, Cliff Singer, and Ryan Sriver).
 

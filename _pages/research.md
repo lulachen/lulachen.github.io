@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Peer-Reviewed Publications
-Rawlance Ndejjo, Nuole Chen, Steven N. Kabwama, Alice Namale, Solomon Tsebeni Wafula, Irene Wanyana, Susan Kizito, Suzanne N. Kiwanuka, William Sambisa, Lily L. Tsai, Rhoda K. Wanyenze. ["Uptake of COVID-19 vaccines and associated factors among adults in Uganda: a cross-sectional survey."](https://bmjopen.bmj.com/content/13/3/e067377.abstract) _BMJ Open_, 13:3.
+Rawlance Ndejjo, Nuole Chen, Steven N. Kabwama, Alice Namale, Solomon Tsebeni Wafula, Irene Wanyana, Susan Kizito, Suzanne N. Kiwanuka, William Sambisa, Lily L. Tsai, Rhoda K. Wanyenze. 2023. ["Uptake of COVID-19 vaccines and associated factors among adults in Uganda: a cross-sectional survey."](https://bmjopen.bmj.com/content/13/3/e067377.abstract) _BMJ Open_, 13:3.
 
 Heather Kappes, Mattie Toma, Rekha Balu, Russell Burnett, Nuole Chen, Rebecca A. Johnson, Jessica Leight, Saad B. Omer, Eleana Safran, Mary Steffel, Kris-Stella Trump, David Yokum, and Pompa Debroy. [“Lessons for Covid-19 Vaccination from Eight Federal
 Government Direct Communication Evaluation.”](https://eprints.lse.ac.uk/115072/1/OES_vaccine_portfolio_piece.pdf) _Behavioral Science & Policy, Forthcoming_.

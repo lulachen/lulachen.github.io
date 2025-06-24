@@ -21,7 +21,7 @@ Nuole Chen, Kris-Stella Trump, Stacy Hall, and Quan Le. 2023. [“The Effect of 
 Cheng Jin, Chunji Yin, Xiaogang Jin, Yong Min, Yixiao Li, Nuole Chen, and Jiaxuan Huang. 2018. [“Group-based rewiring rules of binary opinion competition dynamics.”](https://www.nature.com/articles/s41598-018-32678-7) _Scientific Reports_, 8(14423).
 
 ## Other Publications
-Nuole Chen. 2024. ["Improving Data Utilization - State Department Reform Under the Second Trump Administration."](https://www.stimson.org/2025/state-department-reform-under-the-second-trump-administration/) Stimson Center.
+Nuole Chen. 2025. ["Improving Data Utilization - State Department Reform Under the Second Trump Administration."](https://www.stimson.org/2025/state-department-reform-under-the-second-trump-administration/) Stimson Center.
 
 Nat Rabb, Alisa Zomer, and Nuole Chen. 2024. [“Can Trustworthy AI Improve Governance and Trust? AI Trends, Biases, & Gaps.”](https://mitgovlab.org/news/can-trustworthy-ai-improve-governance-and-trust-ai-trends-biases-and-gaps/) MIT GOV/LAB. 
 

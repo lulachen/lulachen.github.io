@@ -38,12 +38,11 @@ Nuole Chen, Pompa Debroy, Stacy Hall, and Quan Le. 2019. [“Postcards-Increasin
 
 ## Works in Progress
 
-### Field Experiments & Methods
+### Governance
 “Public Service Delivery and the Virtuous Circle: Evidence from Malawi.” (with Christopher Grady, Boniface Dulani, Mwayi Masumbu, Busta Munthali Chiona, Jake Bowers, and Matthew Winters). _Under review_.
 
-“Can an Information Campaign about Taxation and Service Delivery Increase Tax Compliance?” (with Christopher Grady, Boniface Dulani, Mwayi Masumbu, Jake Bowers, and Matt Winters).
-
-“Discovering the next experiment via Sequential Intersection Union Testing and FDR adjustment: Randomization inference based statistical testing with thousands of subgroups.” (with Jake Bowers).
+``Covid-19, Vaccination, and Trust in Africa.'' (with Lily Tsai, Rawlance Ndejjo, Steven Kabwama, ..., Olufunmilayo Fawole, Mala Ali Mapatano, Ibrahima Seck, and Rhoda Wanyenze). _Under review_.
+\vspace{.1in}
 
 ### Decision-making in Foreign Policy
 “Decision-making in U.S. National Security Councils: Evidence from the Ford and Nixon Administrations"

@@ -42,7 +42,6 @@ Nuole Chen, Pompa Debroy, Stacy Hall, and Quan Le. 2019. [“Postcards-Increasin
 “Public Service Delivery and the Virtuous Circle: Evidence from Malawi.” (with Christopher Grady, Boniface Dulani, Mwayi Masumbu, Busta Munthali Chiona, Jake Bowers, and Matthew Winters). _Under review_.
 
 ``Covid-19, Vaccination, and Trust in Africa.'' (with Lily Tsai, Rawlance Ndejjo, Steven Kabwama, ..., Olufunmilayo Fawole, Mala Ali Mapatano, Ibrahima Seck, and Rhoda Wanyenze). _Under review_.
-\vspace{.1in}
 
 ### Decision-making in Foreign Policy
 “Decision-making in U.S. National Security Councils: Evidence from the Ford and Nixon Administrations"

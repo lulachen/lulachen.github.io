@@ -47,15 +47,3 @@ Nuole Chen, Pompa Debroy, Stacy Hall, and Quan Le. 2019. [“Postcards-Increasin
 
 ### Decision-making in Foreign Policy
 “Decision-making in U.S. National Security Councils: Evidence from the Ford and Nixon Administrations"
-
-#{% if author.googlescholar %}
-#  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-#{% endif %}
-
-#{% include base_path %}
-
-#{% for post in site.publications reversed %}
-#  {% include archive-single.html %}
-#{% endfor %} -->
-
-

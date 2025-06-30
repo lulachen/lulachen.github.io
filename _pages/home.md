@@ -8,7 +8,7 @@ redirect_from:
   - /home.html
 ---
 
-I am the Research Director at [MIT](https://web.mit.edu) in [MIT GOV/LAB](https://mitgovlab.org) and the [Department of Political Science](https://polisci.mit.edu). 
+I am the Research Director at [MIT GOV/LAB](https://mitgovlab.org), in the [Department of Political Science](https://polisci.mit.edu) at [MIT](https://web.mit.edu). 
 
 I have two streams of research, one that focuses on governance and a second that focuses on foreign policy. At MIT GOV/LAB, I work on projects that examine trust, bureaucracy, and the use of digital technology to improve the citizen-government relationship. I study how governments’ interactions with citizens (through improved service delivery, information provision, or signals of good intent, etc.) affect citizens’ trust in and compliance with the government.  Our most recent projects examine how generative AI and online deliberative technologies can strengthen democracy.
 
